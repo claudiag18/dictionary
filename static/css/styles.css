@@ -1,0 +1,41 @@
+body {
+    background-image: url("/static/images/background-photo.jpg");
+    background-size: cover;
+    background-color:#678983;
+    background-position: center;
+    background-blend-mode:screen;
+    min-height: 95vh;
+}
+
+
+.container {
+    padding: 70px 20px 70px 20px;
+}
+
+.container-fluid {
+    padding-top: 50px;
+    width:80%;
+}
+
+.container-fluid2 {
+    padding: 20px;
+    width:90%;
+    background-color:white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+h1 {
+    color: #D72323;
+    font-size:4rem;
+    font-family: 'Josefin Sans', sans-serif;
+    text-shadow: 2px 2px #142F43;
+}
+
+.row {
+ margin-top: 10px;
+}
+
+.col-10 {
+    border-bottom: 2px solid grey;
+}
